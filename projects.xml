@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+	<option>
+    <name>Programming Skills</name>
+    <image>http://www.jannattech.com/wp-content/uploads/2015/01/develop-programming-skills.png</image>
+    <description>Successfully built applications with: ASP .NET MVC, C#, PHP, JavaScript, JQuery, C++, ColdFusion, XML, SQL, Larevel, Bootstrap, Materialize, HTML5, and CSS3.</description>
+  </option>
+
+  <option>
+    <name>Educational Application</name>
+    <image>http://www.freeimageslive.co.uk/files/images003/math.jpg</image>
+    <description>Successfully built an educational application for youth in Sierra Leone using JavaScript, and Agile approaches.</description>
+  </option>
+
+  <option>
+    <name>E-comerce Application</name>
+    <image>https://qph.ec.quoracdn.net/main-qimg-3965add7c3c3703ad6b41254a8664767?convert_to_webp=true</image>
+    <description>Successfully built an e-commerce application for an electronic store using Laravel, and Agile approaches.</description>
+  </option>
+
+  <option>
+    <name>Agile Development</name>
+    <image>http://amitabh.guru/wp-content/uploads/2015/09/AGILE-800x445.jpg</image>
+    <description>Successfully completed group projects using the Agile approaches.</description>
+  </option>
+</options>

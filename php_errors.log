@@ -1,0 +1,36 @@
+[28-Sep-2016 04:59:47 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/model/thanks.php on line 2
+[28-Sep-2016 04:59:47 UTC] PHP Stack trace:
+[28-Sep-2016 04:59:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/model/contact_form.php:0
+[28-Sep-2016 04:59:47 UTC] PHP   2. include() /home/ubuntu/workspace/model/contact_form.php:133
+[28-Sep-2016 04:59:47 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/model/thanks.php on line 2
+[28-Sep-2016 04:59:47 UTC] PHP Stack trace:
+[28-Sep-2016 04:59:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/model/contact_form.php:0
+[28-Sep-2016 04:59:47 UTC] PHP   2. include() /home/ubuntu/workspace/model/contact_form.php:133
+[28-Sep-2016 05:00:27 UTC] PHP Warning:  include(/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/model/thanks.php on line 2
+[28-Sep-2016 05:00:27 UTC] PHP Stack trace:
+[28-Sep-2016 05:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/model/contact_form.php:0
+[28-Sep-2016 05:00:27 UTC] PHP   2. include() /home/ubuntu/workspace/model/contact_form.php:133
+[28-Sep-2016 05:00:27 UTC] PHP Warning:  include(): Failed opening '/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/model/thanks.php on line 2
+[28-Sep-2016 05:00:27 UTC] PHP Stack trace:
+[28-Sep-2016 05:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/model/contact_form.php:0
+[28-Sep-2016 05:00:27 UTC] PHP   2. include() /home/ubuntu/workspace/model/contact_form.php:133
+[28-Sep-2016 05:00:41 UTC] PHP Warning:  include(/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/model/thanks.php on line 2
+[28-Sep-2016 05:00:41 UTC] PHP Stack trace:
+[28-Sep-2016 05:00:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/model/contact_form.php:0
+[28-Sep-2016 05:00:41 UTC] PHP   2. include() /home/ubuntu/workspace/model/contact_form.php:133
+[28-Sep-2016 05:00:41 UTC] PHP Warning:  include(): Failed opening '/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/model/thanks.php on line 2
+[28-Sep-2016 05:00:41 UTC] PHP Stack trace:
+[28-Sep-2016 05:00:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/model/contact_form.php:0
+[28-Sep-2016 05:00:41 UTC] PHP   2. include() /home/ubuntu/workspace/model/contact_form.php:133
+[28-Sep-2016 05:02:09 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "projects.xml" in /home/ubuntu/workspace/main.php on line 39
+[28-Sep-2016 05:02:09 UTC] PHP Stack trace:
+[28-Sep-2016 05:02:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/model/contact_form.php:0
+[28-Sep-2016 05:02:09 UTC] PHP   2. include() /home/ubuntu/workspace/model/contact_form.php:133
+[28-Sep-2016 05:02:09 UTC] PHP   3. include() /home/ubuntu/workspace/model/thanks.php:3
+[28-Sep-2016 05:02:09 UTC] PHP   4. simplexml_load_file() /home/ubuntu/workspace/main.php:39
+[28-Sep-2016 05:10:22 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "projects.xml" in /home/ubuntu/workspace/main.php on line 39
+[28-Sep-2016 05:10:22 UTC] PHP Stack trace:
+[28-Sep-2016 05:10:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/model/contact_form.php:0
+[28-Sep-2016 05:10:22 UTC] PHP   2. include() /home/ubuntu/workspace/model/contact_form.php:130
+[28-Sep-2016 05:10:22 UTC] PHP   3. include() /home/ubuntu/workspace/model/thanks.php:3
+[28-Sep-2016 05:10:22 UTC] PHP   4. simplexml_load_file() /home/ubuntu/workspace/main.php:39
